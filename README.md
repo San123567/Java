@@ -17,7 +17,7 @@ The repository demonstrates hands-on experience with writing structured Java cod
 ## 🛠️ Technologies & Skills Used
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,Apache NetBeans,eclipse,vscode"/>
+  <img src="https://skillicons.dev/icons?i=java,eclipse,vscode"/>
 </p>
 
 * **Java** — Core programming
